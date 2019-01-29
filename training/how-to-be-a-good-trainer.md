@@ -8,3 +8,5 @@ Rule 3 : Adapt your speech to your students.
 
 Rule 4 : if you don't know what to do with your hands, use a pencil or a remote control.
 
+Rule 5 : if the training session is longer than one day, anticipate to be late at the ed of the first day. You are less stressed in front of your students
+

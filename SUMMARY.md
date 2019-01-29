@@ -5,7 +5,6 @@
 ## Training
 
 * [How to be a good trainer](training/how-to-be-a-good-trainer.md)
-* [References](training/references.md)
 
 ## Tech
 
