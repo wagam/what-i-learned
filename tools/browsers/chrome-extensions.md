@@ -1,4 +1,4 @@
-# Chrome extensions
+# Browser extensions
 
 ### uBlock origin
 
