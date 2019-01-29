@@ -8,5 +8,5 @@ I use Vivaldi because it's Chromium based and the dev console is really powerful
 
 ### Firefox \(for personal surf\)
 
-I use Firefox to keep my privacy. Since last year and big update, Firefox is faster and better. 
+I use Firefox to keep my privacy. Since last year and big update, Firefox is faster and better but the main lack is dev tool console. If it becomes as good as the chromium one, I will do the definitive switch.
 

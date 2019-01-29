@@ -7,10 +7,6 @@
 * [How to be a good trainer](training/how-to-be-a-good-trainer.md)
 * [References](training/references.md)
 
-## Agro Food
-
-* [Good to remember](agro-food/good-practices.md)
-
 ## Tech
 
 * [Git](tech/git.md)
@@ -21,4 +17,8 @@
 * [Feedly](tools/feedly.md)
 * [Browsers](tools/browsers/README.md)
   * [Chrome extensions](tools/browsers/chrome-extensions.md)
+
+## Agro Food
+
+* [Good to remember](agro-food/good-practices.md)
 
