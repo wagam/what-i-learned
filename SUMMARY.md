@@ -1,10 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-## Training
-
-* [How to be a good trainer](training/how-to-be-a-good-trainer.md)
+* [Meta](meta.md)
+* [Training](training/README.md)
+  * [How to be a good trainer](training/how-to-be-a-good-trainer.md)
 
 ## Tech
 
@@ -12,6 +11,7 @@
 * [Programming languages](tech/programming-languages/README.md)
   * [Javascript](tech/programming-languages/javascript/README.md)
     * [Angular](tech/programming-languages/javascript/angular.md)
+    * [Typescript](tech/programming-languages/javascript/typescript.md)
     * [Vue](tech/programming-languages/javascript/vue.md)
   * [Java](tech/programming-languages/java.md)
 
@@ -36,7 +36,8 @@
 ## lifestyle
 
 * [Savings](lifestyle/savings.md)
-* [Culture](lifestyle/culture.md)
+* [Culture](lifestyle/culture/README.md)
+  * [Youtube](lifestyle/culture/youtube.md)
 
 ## Gaming
 
