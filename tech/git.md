@@ -34,3 +34,11 @@ If you want to reuse some commit from another branch, do
 git cherry-pick <commit-sha1>
 ```
 
+If you have a lot of small commits and you want to manage them differently, e.g. a feature commit, you can do an interactive rebase with 
+
+```text
+git rebase -i <branch-to-rebase>
+```
+
+
+
