@@ -9,7 +9,7 @@
 
 ## Agro Food
 
-* [Good practices](agro-food/good-practices.md)
+* [Good to remember](agro-food/good-practices.md)
 
 ## Tech
 
