@@ -12,7 +12,7 @@ gup = git pull --rebase
 
 ### What I understand about git :
 
-A commit point to its parent by knowing the parent commit number \(sha1\). 
+A commit points to its parent by storing the parent commit number \(sha1\). 
 
 Every commit is a summary of all changes from the last save.
 

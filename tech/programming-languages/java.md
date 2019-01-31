@@ -1,6 +1,6 @@
 # Java
 
-Maybe ont of the best back-end language : 
+Maybe one of the most used back-end language : 
 
 * Very popular
 * Old =&gt; less buggy than others
