@@ -14,6 +14,11 @@
     * [Typescript](tech/programming-languages/javascript/typescript.md)
     * [Vue](tech/programming-languages/javascript/vue.md)
   * [Java](tech/programming-languages/java.md)
+* [Best practices](tech/best-practices/README.md)
+  * [BDD](tech/best-practices/bdd.md)
+  * [Clean code](tech/best-practices/clean-code.md)
+  * [TDD](tech/best-practices/tdd.md)
+* [DevOps](tech/devops.md)
 
 ## Tools
 
@@ -24,6 +29,7 @@
 ## macOS
 
 * [macOS Applications](macos/macos-applications.md)
+* [Tips and tricks](macos/tips-and-tricks.md)
 
 ## Agro Food
 
