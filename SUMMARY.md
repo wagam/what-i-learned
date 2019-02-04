@@ -49,6 +49,7 @@
 ## Gaming
 
 * [Retro gaming](gaming/retro-gaming.md)
-* [PlayStation](gaming/playstation.md)
+* [PlayStation](gaming/playstation/README.md)
+  * [Games](gaming/playstation/games.md)
 * [Nintendo](gaming/nintendo.md)
 
