@@ -1,3 +1,7 @@
+---
+description: Extensions very useful I install first
+---
+
 # Browser extensions
 
 ### uBlock origin

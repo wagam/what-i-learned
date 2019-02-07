@@ -4,3 +4,5 @@ I don't want to lose time to find good tech articles and to stay up to date with
 
 Good point is it has Android app and FeedlyBoard chrome extension.
 
+At the moment, you cannot share your boards with others with free version.
+
