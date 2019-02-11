@@ -14,9 +14,13 @@ Used to store my passwords.
 
 ### PrivacyBadger
 
-Help to keep my privacy. In a new website, I open the extension and turn off all ad trackers \(usually contains ad in its URL... \)
+Helps to keep my privacy. In a new website, I open the extension and turn off all ad trackers \(usually contains ad in its URL... \)
 
 ### Video Speed Controller
 
 Add controls to adjust speed on web video players. I use it often with Netflix to speed up TV shows. Speed around 1.6 is ok to follow dialogs.
+
+### Feedly board \(chrome-like only\)
+
+Helps to save a website and /or a specific link to one of your Feedly board.
 
