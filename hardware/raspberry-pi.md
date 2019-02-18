@@ -6,3 +6,9 @@ I used it to make an bartop. See next link:
 
 I used it as a web proxy VPN
 
+Raspberry pi projects I want to try: 
+
+[jarvis](https://www.openjarvis.com/)
+
+
+
