@@ -4,6 +4,8 @@
 
 CircleCI
 
+TravisCI
+
 ## Containerization
 
 Docker
@@ -11,4 +13,6 @@ Docker
 ## Container orchestration
 
 Kubernetes
+
+Swarm
 

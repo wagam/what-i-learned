@@ -26,6 +26,7 @@
 * [Feedly](tools/feedly.md)
 * [Browsers](tools/browsers/README.md)
   * [Browser extensions](tools/browsers/chrome-extensions.md)
+* [Awesome Repos](tools/awesome-repos.md)
 
 ## macOS
 
@@ -44,7 +45,8 @@
 
 * [Savings](lifestyle/savings.md)
 * [Culture](lifestyle/culture/README.md)
-  * [Books](lifestyle/culture/books.md)
+  * [Books](lifestyle/culture/books/README.md)
+    * [Mangas](lifestyle/culture/books/mangas.md)
   * [Youtube](lifestyle/culture/youtube.md)
 
 ## Gaming
