@@ -18,6 +18,7 @@
   * [BDD](tech/best-practices/bdd.md)
   * [Clean code](tech/best-practices/clean-code.md)
   * [TDD](tech/best-practices/tdd.md)
+  * [SOLID](tech/best-practices/solid.md)
 * [DevOps](tech/devops.md)
 * [CSS frameworks](tech/css-frameworks.md)
 

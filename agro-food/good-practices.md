@@ -8,6 +8,8 @@ I worked in agro food for almost 10 years. That's what I remember :
 * Avoid first prices meals
 * Meat will become more and more expensive, because of China growth and EU lower grants.
 * Don't be obsessed with expiration dates. Industries has to protect themselves. They don't want you ti die because of their products. So, they reduce de expiration date to be sure it's ok to eat it. Dry food, as pastas, powder soups, cans, yogurts can be eaten a long time after the date, just be cautious with some weird stuff : if cans are abnormally inflated, or if something smells bad, DON'T EAT IT. 
-* 
+
+
+
 
 
