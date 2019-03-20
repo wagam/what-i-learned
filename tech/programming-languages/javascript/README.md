@@ -12,3 +12,7 @@ Node is useful to have npm and download dependencies in famous node\_modules fol
 
 {% embed url="https://anvaka.github.io/pm/\#/galaxy/npm?cx=0&cy=0&cz=0&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=0&v=0" %}
 
+## Closures
+
+
+
