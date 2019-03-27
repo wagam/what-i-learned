@@ -2,12 +2,13 @@
 
 ## Game Boy \(GB/GBC/GBA\)
 
-* The legend of Zelda
+* The legend of Zelda : oracle of ages/seasons
 * Pokemon Gold/Silver
+* Hands of Time
 
 ## Switch
 
-* the legend of Zelda : Breath of the wild
+* The legend of Zelda : Breath of the wild
 * Super Mario Kart
 * Super Mario Party
-* 
+

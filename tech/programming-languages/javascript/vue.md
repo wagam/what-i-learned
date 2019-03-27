@@ -4,3 +4,5 @@ Vue is a lightweight JS framework. I think it is a mix between AngularJS and Rea
 
 Easy learning curve. 
 
+Very lightweight. It brings the minimal stuff with it.
+
