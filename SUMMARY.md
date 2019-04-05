@@ -22,6 +22,7 @@
   * [SOLID](tech/best-practices/solid.md)
 * [DevOps](tech/devops.md)
 * [CSS frameworks](tech/css-frameworks.md)
+* [Text editor](tech/text-editor.md)
 
 ## Tools
 
