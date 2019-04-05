@@ -1,5 +1,5 @@
 ---
-description: Collection of my favorites mangas
+description: Collection of my favorites mangas (possibly with French names)
 ---
 
 # Mangas

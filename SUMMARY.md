@@ -48,6 +48,7 @@
 * [Savings](lifestyle/savings.md)
 * [Culture](lifestyle/culture/README.md)
   * [Books](lifestyle/culture/books/README.md)
+    * [Detective stories](lifestyle/culture/books/detective-stories.md)
     * [Mangas](lifestyle/culture/books/mangas.md)
   * [Youtube](lifestyle/culture/youtube.md)
 

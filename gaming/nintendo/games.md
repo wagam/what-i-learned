@@ -1,5 +1,9 @@
 # Games
 
+## NES
+
+* Super Mario Bros
+
 ## Game Boy \(GB/GBC/GBA\)
 
 * The legend of Zelda : oracle of ages/seasons
