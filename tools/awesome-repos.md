@@ -8,3 +8,5 @@ description: Awesome repos from github
 
 [Steven Black Hosts](https://github.com/StevenBlack/hosts)
 
+[Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+
