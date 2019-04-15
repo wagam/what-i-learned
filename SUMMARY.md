@@ -23,6 +23,7 @@
 * [DevOps](tech/devops.md)
 * [CSS frameworks](tech/css-frameworks.md)
 * [Text editor](tech/text-editor.md)
+* [IDE](tech/ide.md)
 
 ## Tools
 

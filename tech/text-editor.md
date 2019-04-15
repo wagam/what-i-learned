@@ -1,8 +1,12 @@
 # Text editor
 
-## Vi \(and Vim\)
+## Used with bash
 
-## Nano
+### Vi \(and Vim\)
 
-## Sublime text and atom
+### Nano
+
+## Used in a GUI
+
+### Sublime text and atom
 
