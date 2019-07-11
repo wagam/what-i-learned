@@ -8,7 +8,7 @@ I recently jumped to vsc for a new project. It is a verry good IDE that can be c
 
 At the moment I use Andromeda theme \(downloaded directly from vsc market place\).
 
-I wanted to use a free font with ligatures and italics comments. I use Victor Mono font and this config in settings.json file in vsc : 
+I wanted to use a free font with ligatures and italics comments. I use [Victor Mono font](https://rubjo.github.io/victor-mono/) and this config in settings.json file in vsc : 
 
 ```text
 "editor.tokenColorCustomizations": {
