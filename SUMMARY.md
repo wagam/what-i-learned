@@ -12,6 +12,7 @@
   * [Javascript](tech/programming-languages/javascript/README.md)
     * [Angular](tech/programming-languages/javascript/angular/README.md)
       * [How to create an Angular app](tech/programming-languages/javascript/angular/how-to-create-an-angular-app.md)
+    * [React](tech/programming-languages/javascript/react.md)
     * [Typescript](tech/programming-languages/javascript/typescript.md)
     * [Vue](tech/programming-languages/javascript/vue.md)
   * [Java](tech/programming-languages/java.md)
