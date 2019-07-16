@@ -40,5 +40,9 @@ If you have a lot of small commits and you want to manage them differently, e.g.
 git rebase -i <branch-to-rebase>
 ```
 
+If you want to keep your updates of some files but you don't want to commit them, you can use 
 
+```text
+git stash <file-path> -m "your-stah-message-to-remember-it"
+```
 
