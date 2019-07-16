@@ -153,6 +153,8 @@ I wanted to use a free font with ligatures and italics comments. I use [Victor M
   },
 ```
 
+[Source](https://www.reddit.com/r/vscode/comments/8gxoer/italic_for_vs_code_with_fira_code_or_operator_mono/)
+
 Result : 
 
 ![](../.gitbook/assets/code.png)
