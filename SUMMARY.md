@@ -54,6 +54,7 @@
     * [Detective stories](lifestyle/culture/books/detective-stories.md)
     * [Mangas](lifestyle/culture/books/mangas.md)
   * [Youtube](lifestyle/culture/youtube.md)
+  * [Movies & TV shows](lifestyle/culture/movies-and-tv-shows.md)
 
 ## Gaming
 
