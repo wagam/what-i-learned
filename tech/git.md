@@ -46,3 +46,7 @@ If you want to keep your updates of some files but you don't want to commit them
 git stash <file-path> -m "your-stah-message-to-remember-it"
 ```
 
+### Git workflows
+
+// TODO
+

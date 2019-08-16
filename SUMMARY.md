@@ -33,6 +33,12 @@
   * [Browser extensions](tools/browsers/chrome-extensions.md)
 * [Awesome Repos](tools/awesome-repos.md)
 
+## Out of Google tools
+
+* [List of Google services I want to leave](out-of-google-tools/list-of-google-services-i-want-to-leave.md)
+* [My Google Search Alternative](out-of-google-tools/my-google-search-alternative.md)
+* [My Google Chrome alternatives](out-of-google-tools/my-google-chrome-alternatives.md)
+
 ## macOS
 
 * [macOS Applications](macos/macos-applications.md)
