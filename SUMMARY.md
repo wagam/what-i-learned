@@ -70,3 +70,7 @@
 * [Nintendo](gaming/nintendo/README.md)
   * [Games](gaming/nintendo/games.md)
 
+## Websites to remember
+
+* [AI generators](websites-to-remember/ai-generators.md)
+
