@@ -9,6 +9,7 @@
 
 * [Git](tech/git.md)
 * [Programming languages](tech/programming-languages/README.md)
+  * [Flutter](tech/programming-languages/flutter.md)
   * [Javascript](tech/programming-languages/javascript/README.md)
     * [Angular](tech/programming-languages/javascript/angular/README.md)
       * [How to create an Angular app](tech/programming-languages/javascript/angular/how-to-create-an-angular-app.md)
