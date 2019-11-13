@@ -4,6 +4,8 @@
 
 ### Vi \(and Vim\)
 
+To leave Vi  use `:q`
+
 ### Nano
 
 ## Used in a GUI

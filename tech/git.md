@@ -48,5 +48,7 @@ git stash <file-path> -m "your-stah-message-to-remember-it"
 
 ### Git workflows
 
-// TODO
+Classic git workflow
+
+![](https://miro.medium.com/max/577/1*AAU1VCV8LMHvVPBYxMBsxg.png)
 
