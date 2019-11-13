@@ -10,3 +10,7 @@ Must read book: "Clean Code",  by Robert Cecil Martin
 
 Acronym of Keep It Simple, Stupid
 
+## Languages best practices
+
+Javascript : [https://devinduct.com/blogpost/22/javascript-clean-code-best-practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
+
