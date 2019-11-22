@@ -76,3 +76,7 @@
 
 * [AI generators](websites-to-remember/ai-generators.md)
 
+## Books
+
+* [Technical books](books/technical-books.md)
+
