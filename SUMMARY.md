@@ -33,6 +33,7 @@
 * [Feedly](tools/feedly.md)
 * [Browsers](tools/browsers/README.md)
   * [Browser extensions](tools/browsers/chrome-extensions.md)
+  * [Browser tricks](tools/browsers/browser-tricks.md)
 * [Awesome Repos](tools/awesome-repos.md)
 
 ## Out of Google tools
