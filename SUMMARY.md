@@ -27,6 +27,8 @@
 * [CSS frameworks](tech/css-frameworks.md)
 * [Text editor](tech/text-editor.md)
 * [IDE](tech/ide.md)
+* [Code snippets](tech/code-snippets/README.md)
+  * [CSS](tech/code-snippets/css.md)
 
 ## Tools
 
