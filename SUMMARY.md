@@ -77,6 +77,7 @@
 
 ## Websites to remember
 
+* [Design tools](websites-to-remember/design-tools.md)
 * [AI generators](websites-to-remember/ai-generators.md)
 
 ## Books
