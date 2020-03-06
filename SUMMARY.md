@@ -20,6 +20,7 @@
   * [Java](tech/programming-languages/java.md)
 * [Best practices](tech/best-practices/README.md)
   * [BDD](tech/best-practices/bdd.md)
+  * [Cheat sheets & best practices](tech/best-practices/cheat-sheets-and-best-practices.md)
   * [Clean code](tech/best-practices/clean-code.md)
   * [TDD](tech/best-practices/tdd.md)
   * [SOLID](tech/best-practices/solid.md)
