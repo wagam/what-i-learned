@@ -46,6 +46,14 @@ If you want to keep your updates of some files but you don't want to commit them
 git stash <file-path> -m "your-stah-message-to-remember-it"
 ```
 
+If you want to know where two commits started to diverge you can use
+
+```text
+git bisect <commit1> <commit2>
+```
+
+See [https://git-scm.com/docs/git-bisect](https://git-scm.com/docs/git-bisect) for more info about git bisect
+
 ### Git workflows
 
 Classic git workflow
