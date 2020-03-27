@@ -2,11 +2,15 @@
 
 ### Google Search Engine
 
+Replaced by DuckDuckGO
+
 ### Google Chrome
 
-Google Drive
+Replaced by [Firefox and Vivaldi](../tools/browsers/)
 
-Gmail
+#### Google Drive
 
-Android
+#### Gmail
+
+#### Android
 

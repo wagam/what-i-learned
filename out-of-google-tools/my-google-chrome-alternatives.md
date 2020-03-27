@@ -1,8 +1,6 @@
 # My Google Chrome alternatives
 
-### Firefox
-
-### Vivaldi
+## See this page : 
 
 {% page-ref page="../tools/browsers/" %}
 
