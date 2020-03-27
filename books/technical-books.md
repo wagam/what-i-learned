@@ -8,7 +8,11 @@ Even if a lot of tips seem very logical, I think it is important to have words f
 
 ## Clean Code
 
+Maybe the reference book for writing good and clean code ! A lot of good advices more or less easy to apply all the tim when you code. 
+
 ## Clean architecture
+
+Similar to Clean Code, it extends the purpose to an bigger view than only code. It follows more or less the same ideas to improve code and architecture. You will still found some of SOLID principles that can be applied to architecture. 
 
 
 
