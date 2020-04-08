@@ -1,4 +1,8 @@
 # Design tools
 
-[https://www.designvalley.club/](https://www.designvalley.club/)
+{% embed url="https://www.designvalley.club/" %}
+
+{% embed url="https://norde.io/" %}
+
+
 
