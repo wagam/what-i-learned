@@ -29,6 +29,7 @@
 * [Text editor](tech/text-editor.md)
 * [IDE](tech/ide.md)
 * [Code snippets](tech/code-snippets/README.md)
+  * [Bash-Zsh](tech/code-snippets/bash-zsh.md)
   * [CSS](tech/code-snippets/css.md)
 
 ## Tools
