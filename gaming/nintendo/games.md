@@ -15,4 +15,5 @@
 * The legend of Zelda : Breath of the wild
 * Super Mario Kart
 * Super Mario Party
+* Animal Crossing: New Horizons
 

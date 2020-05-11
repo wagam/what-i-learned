@@ -12,7 +12,7 @@ I worked in agro food for almost 10 years. That's what I remember :
 
 ## Yuka
 
-Yuka is an app giving nutritional informations about food product. If the product is not ok, it can proposes better alternatives. But as every application, algorithms have some bias and depend on the rules given in entry. So it is important to take a step back. It is normal if cakes have a lot of carbs. We know it and we buy them for that. That's why when Yuka says it is not healthy because it has too much carbs, it is a fact. But it is not really a problem if you eat some. And it doesn't take into account what you have eaten before.
+Yuka is an app giving nutritional informations about food product. If the product is not ok, it can proposes better alternatives. But as every application, algorithms have some bias and depend on the rules given in entry. So it is important to take a step back. It is normal if cakes have a lot of carbs. We know it and we buy them for that. That's why when Yuka says it is not healthy because it has too much carbs, it is a fact. But it is not really a problem if you eat some. And it doesn't take into account at the moment what you have eaten before.
 
 Again, saying some ingredients are not safe like titanium dioxide or preservatives is a good alert, but it is not really a problem to eat them. Because of the laws, agro food industries cannot use them more than certain limit. And a lot of studies have been done before to be sure it is not toxic.
 

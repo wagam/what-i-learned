@@ -1,6 +1,6 @@
 # macOS Applications
 
-App I use everyday: 
+Apps I use everyday: 
 
 * Alfred
 * Homebrew
