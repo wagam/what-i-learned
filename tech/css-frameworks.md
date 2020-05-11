@@ -1,6 +1,6 @@
 # CSS frameworks
 
-When I start a new project, I use a design framework. It helps to develop fastly a clean interface with a good design.
+When I start a new project, I like to use a design framework because  it helps to develop fastly a clean interface with a good design.
 
 ## Bootstrap \(Twitter\)
 
@@ -19,4 +19,10 @@ Tip: Alternate class "col" and "row" for nested html tags. A row resets margins 
 Material Angular is the official framework to build angular apps with the Google design framework \(Material\). 
 
 [Link](https://material.io)
+
+## Tailwind CSS
+
+Tailwind CSS is a CSS framework with a simple concept. Each class is atomic and represents the minimum style possible. So it is almost like inlining the CSS but with the reusability of the classes.
+
+[Link](https://tailwindcss.com/)
 
