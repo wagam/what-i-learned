@@ -1,6 +1,6 @@
 # CSS
 
-## Center content in a div
+## Center content in a div with flex
 
 ```text
 div {

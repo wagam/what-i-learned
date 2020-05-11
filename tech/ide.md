@@ -1,10 +1,14 @@
 # IDE
 
-## IntelliJ
+## IntelliJ / Webstorm
+
+IntelliJ is probably the reference for Java devs with all its built-in features. 
+
+Webstorm is IntelliJ for web Javascript and Typescript
 
 ## Visual StudioCode
 
-I recently jumped to vsc for a new project. It is a verry good IDE that can be customized on good ways. 
+Not a real IDE because it is supposed to be a text editor but with all its features and plugins, it loks like an IDE. I recently jumped to vsc for a new project. It can be customized on good ways. 
 
 At the moment I use Andromeda theme \(downloaded directly from vsc market place\).
 
