@@ -7,7 +7,9 @@
 
 ## Tech
 
-* [Git](tech/git.md)
+* [Awesome Tech tools](tech/awesome-tech-tools/README.md)
+  * [Puppeteer](tech/awesome-tech-tools/puppeteer.md)
+  * [Git](tech/awesome-tech-tools/git.md)
 * [Programming languages](tech/programming-languages/README.md)
   * [Dart](tech/programming-languages/dart/README.md)
     * [Flutter](tech/programming-languages/dart/flutter.md)
@@ -25,7 +27,9 @@
   * [TDD](tech/best-practices/tdd.md)
   * [SOLID](tech/best-practices/solid.md)
 * [DevOps](tech/devops.md)
-* [CSS frameworks](tech/css-frameworks.md)
+* [CSS](tech/css/README.md)
+  * [CSS frameworks](tech/css/css-frameworks.md)
+  * [CSS print](tech/css/css-print.md)
 * [Text editor](tech/text-editor.md)
 * [IDE](tech/ide.md)
 * [Code snippets](tech/code-snippets/README.md)
