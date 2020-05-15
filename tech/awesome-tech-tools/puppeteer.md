@@ -58,3 +58,5 @@ You probably will have to deal with some CSS rules if you want to print a beauti
 
 {% page-ref page="../css/css-print.md" %}
 
+[https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/](https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/)
+
