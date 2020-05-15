@@ -7,7 +7,10 @@ Apps I use everyday:
 * magnet
 * flux
 * Fluor
-* iTerm2
+
+{% page-ref page="iterm2.md" %}
+
+
 
 
 

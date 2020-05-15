@@ -52,8 +52,8 @@
 
 ## macOS
 
-* [macOS Applications](macos/macos-applications.md)
-* [iTerm2](macos/iterm2.md)
+* [macOS Applications](macos/macos-applications/README.md)
+  * [iTerm2](macos/macos-applications/iterm2.md)
 * [Tips and tricks](macos/tips-and-tricks.md)
 
 ## Agro Food
