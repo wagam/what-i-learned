@@ -2,7 +2,8 @@
 
 Apps I use everyday: 
 
-* Alfred
+{% page-ref page="alfred.md" %}
+
 * Homebrew
 * magnet
 * flux
