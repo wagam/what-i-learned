@@ -20,6 +20,7 @@
     * [Typescript](tech/programming-languages/javascript/typescript.md)
     * [Vue](tech/programming-languages/javascript/vue.md)
   * [Java](tech/programming-languages/java.md)
+  * [Python](tech/programming-languages/python.md)
 * [Best practices](tech/best-practices/README.md)
   * [BDD](tech/best-practices/bdd.md)
   * [Cheat sheets & best practices](tech/best-practices/cheat-sheets-and-best-practices.md)
