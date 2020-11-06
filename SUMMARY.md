@@ -19,6 +19,7 @@
     * [React](tech/programming-languages/javascript/react.md)
     * [Typescript](tech/programming-languages/javascript/typescript.md)
     * [Vue](tech/programming-languages/javascript/vue.md)
+    * [Other libs](tech/programming-languages/javascript/other-libs.md)
   * [Java](tech/programming-languages/java.md)
   * [Python](tech/programming-languages/python.md)
 * [Best practices](tech/best-practices/README.md)

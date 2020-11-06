@@ -16,3 +16,5 @@ A manner to write html directly in Javascript.
 | :--- | :--- |
 | Helps to handle view directly in the controller | Does not well differentiate view from controller ! |
 
+
+
